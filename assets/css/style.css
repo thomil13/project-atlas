@@ -1,0 +1,8 @@
+:root {
+    --primary-font: "Raleway", sans-serif;
+}
+
+body {
+    font-family: var(--primary-font);
+    padding-top: 56px;
+}
