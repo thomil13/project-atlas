@@ -6,3 +6,8 @@ body {
     font-family: var(--primary-font);
     padding-top: 56px;
 }
+
+nav {
+    background-color: #ffffff;
+    position: absolute;
+}
