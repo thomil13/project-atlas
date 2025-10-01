@@ -1,13 +1,51 @@
 :root {
     --primary-font: "Raleway", sans-serif;
+    --primary-color: #00a160;
+    --secondary-color: #4de35b;
+    --highlight-color: #99e3d2;
+    --background-color: rgba(77, 227, 91, 0.2);
 }
 
 body {
     font-family: var(--primary-font);
-    padding-top: 56px;
+    padding-top: 61px;
+}
+
+h2,
+h3 {
+    color: var(--primary-color);
 }
 
 nav {
     background-color: #ffffff;
     position: absolute;
+    box-shadow: 0 2px 3px #3a3a3a;
+    padding-bottom: 1rem;
+}
+
+.navbar-brand {
+    color: var(--primary-color);
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: scale-down;
+    background-color: var(--background-color);
+}
+
+.carousel {
+    box-shadow: 2px 2px 3px #3a3a3a;
+}
+/* Media Queries */
+
+/*Medium Devices (768px and up)*/
+
+@media screen and (min-width: 768px) {
+}
+
+@media screen and (min-width: 992px) {
+}
+
+@media screen and (min-width: 1200px) {
 }
