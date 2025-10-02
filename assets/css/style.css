@@ -21,6 +21,10 @@ main {
     padding-bottom: 2rem;
 }
 
+p {
+    text-align: justify;
+}
+
 footer {
     background-color: var(--emergency-color);
     padding-top: 1rem;
@@ -30,6 +34,12 @@ footer {
 
 footer > h2 {
     font-weight: bolder;
+}
+
+footer .card-title {
+    font-weight: bold;
+    color: red;
+    text-align: center;
 }
 
 nav {
