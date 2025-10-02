@@ -23,7 +23,13 @@ main {
 
 footer {
     background-color: var(--emergency-color);
+    padding-top: 1rem;
     padding-bottom: 1rem;
+    box-shadow: 0 -2px 3px #3a3a3a;
+}
+
+footer > h2 {
+    font-weight: bolder;
 }
 
 nav {
@@ -47,6 +53,10 @@ nav {
     background-color: var(--background-color);
 }
 
+.card {
+    margin-bottom: 1rem;
+}
+
 .carousel {
     box-shadow: 2px 2px 3px #3a3a3a;
 }
@@ -56,15 +66,15 @@ nav {
     object-fit: scale-down;
 }
 
-/* Media Queries */
-
-/*Medium Devices (768px and up)*/
-
-@media screen and (min-width: 768px) {
+.resources {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 
-@media screen and (min-width: 992px) {
+.resources .display-6 {
+    padding-bottom: 1rem;
 }
 
-@media screen and (min-width: 1200px) {
+footer .display-6 {
+    font-weight: bolder;
 }
