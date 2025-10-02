@@ -96,3 +96,19 @@ footer .card-title {
     font-weight: bold;
     color: var(--emergency-text);
 }
+
+#welcome {
+    padding-top: 1rem;
+}
+
+#my-story {
+    padding-top: 1rem;
+}
+
+#family {
+    padding-top: 1rem;
+}
+
+#employer {
+    padding-top: 1rem;
+}
