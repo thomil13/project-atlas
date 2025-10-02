@@ -5,6 +5,7 @@
     --highlight-color: #99e3d2;
     --background-color: rgba(77, 227, 91, 0.2);
     --emergency-color: #facbbe;
+    --emergency-text: #7a0000;
 }
 
 body {
@@ -87,5 +88,11 @@ nav {
 
 footer .display-6 {
     font-weight: bolder;
-    color: #ffffff;
+    color: var(--emergency-text);
+}
+
+footer .card-title {
+    font-size: larger;
+    font-weight: bold;
+    color: var(--emergency-text);
 }
