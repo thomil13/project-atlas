@@ -4,6 +4,7 @@
     --secondary-color: #4de35b;
     --highlight-color: #99e3d2;
     --background-color: rgba(77, 227, 91, 0.2);
+    --emergency-color: #facbbe;
 }
 
 body {
@@ -14,6 +15,15 @@ body {
 h2,
 h3 {
     color: var(--primary-color);
+}
+
+main {
+    padding-bottom: 2rem;
+}
+
+footer {
+    background-color: var(--emergency-color);
+    padding-bottom: 1rem;
 }
 
 nav {
@@ -45,6 +55,7 @@ nav {
     height: 2rem;
     object-fit: scale-down;
 }
+
 /* Media Queries */
 
 /*Medium Devices (768px and up)*/
