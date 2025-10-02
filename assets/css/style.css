@@ -34,7 +34,6 @@ footer {
 
 footer > h2 {
     font-weight: bolder;
-    color: #ffffff;
 }
 
 footer .card-title {
@@ -88,4 +87,5 @@ nav {
 
 footer .display-6 {
     font-weight: bolder;
+    color: #ffffff;
 }
