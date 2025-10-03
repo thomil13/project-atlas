@@ -1,10 +1,40 @@
 # Mind Yourself
 
+![Mind Yourself Homepage](assets_readme/mind_yourself_01.png)
+
 Mind yourself is a website built to provide insight and advice to those dealing with mental health issues, their friends and family, as well as employers & managers, based on the personal experience of the author, who has had to deal with mental health issues himself.
 
 It was created as part of Code Institute's GoStack 25 Full Stack Software Developer Bootcamp and aims to demonstrate my skills with HTML5, CSS and Bootstrap to create a fully responsive mental health focused website.
 
+## Table of Content
+
+[Table of Content](#table-of-content)
+
+[Design Statement](#design-statement)
+
+[Visual Design Elements](#visual-design-elements)
+
+[User Stories](#user-stories)
+
+[Features](#features)
+
+[Existing Features](#existing-features)
+
+[Missing Features](#features-left-to-implement)
+
+[Testing](#testing)
+
+[Validation Testing](#validation-testing)
+
+[Known Bugs](#unfixed-bugs)
+
+[Deployment](#deployment)
+
+[Credits](#credits)
+
 ## Design Statement
+
+![Mind Yourself Content Page](assets_readme/mind_yourself_02.png)
 
 > A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away.
 - Antoine de Saint-Exupery
@@ -25,13 +55,55 @@ I was a blogger & content creator long before I even considered learning to code
 
 - Use of nature images to reinforce feeling of calm throughout the website
 
+## User Stories
+
+- User Story 1: Home Page / Introduction
+  - AS A general visitor
+  - I CAN get a quick overview of the purpose of the site
+  - SO I can see if it is relevant to me
+
+- User Story 2: Implement Nav Bar
+  - AS A general visitor
+  - I CAN switch between pages
+  - SO THAT I can quickly find the content I need
+
+- User Story 3: Implement Emergency Contact Footer
+  - AS A Site Visitor
+  - I CAN see Emergency points of contact
+  - SO THAT I can immediately call for help if required
+
+- User Story 4: Add Content for Affected Persons
+  - AS someone affected
+  - I CAN find information relevant to me
+  - SO THAT I can get the assistance I need
+ 
+- User Story 5: Implement Accessibility Features
+  - AS A sight-impaired visitor
+  - I CAN use screen readers & accessibility tools
+  - SO THAT I can easily navigate the site
+
+- User Story 6: Add Content for Friends/Family of Affected Persons
+  - AS A friend/family member
+  - I CAN find links and information relevant to me
+  - SO THAT I can better help my friend/family member affected
+
+- User Story 7: Add Content for Managers/Employers of Affected Persons
+  - AS AN employer
+  - I CAN find links and information specific to me
+  - SO THAT I can better help an affected staff member
+
+- User Story 8: Add Links/Resources Page
+  - As a Site Visitor
+  - I can see all support links in one place
+  - So that I can quickly find the resources I need
+    
 ## Features
 
 - Fully responsive website for easy reading on mobile, tablet, laptop and desktop devices.
 - Dedicated pages for patients, family & friends, and employers/managers
 - Links to mental health resources
 
-### Existing Features
+### Existing Features 
 
 - Responsive Navbar
   - Present across all subpages
@@ -65,7 +137,8 @@ I was a blogger & content creator long before I even considered learning to code
 
 ## Testing
 
-- Tested Site Functionality on the following devices
+- Ongoing testing of site navigation & links throughout the development progress
+- Tested Functionality of final site on the following devices
   - MacBook Air running MacOS Tahoe 26.0.1 and Chrome Version 140.0.7339.214
   - iPad Air M1 running iPadOS 26 and Safari 26
   - Samsung Galaxy Z Flip 5 running Android 15/One UI 7.0 and Chrome
@@ -75,11 +148,13 @@ I was a blogger & content creator long before I even considered learning to code
   - General Appearance
   - External Link Functionality
 
-### Validator Testing
+### Validation Testing
 
+![W3C HTML Validation Success Page](assets_readme/html_validation_success.png)
  - HTML Validation Testing Passed without errors or messages on October 2nd, 2025 at 18:43 IST
    - Testing Conducted via Chrome Incognito Mode
 
+![W3C CSS Validation Success Page](assets_readme/css_validation_success.png)
 - CSS Validation Testing passed without errors on October 2nd, 2025 at 18:50 IST
 
 ### Unfixed Bugs
@@ -96,7 +171,9 @@ I was a blogger & content creator long before I even considered learning to code
 
 ### Content
 
-- All texts were written by the author specifically for this page. No GenAI was used
+- All texts were written by the author specifically for this page
+- No Generative AI of any type was usedwas used
+- Font Raleway was sourced from Google Fonts
 
 ### Media
 
@@ -104,4 +181,4 @@ I was a blogger & content creator long before I even considered learning to code
 
 ### Disclaimer
 
-This Readme, as well as the project it documents, was built using characters responsibly sourced from recycled spam emails.
+This readme, as well as the project it documents, was built using characters responsibly sourced from recycled spam emails.
