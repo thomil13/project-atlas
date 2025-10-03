@@ -169,6 +169,7 @@ I was a blogger & content creator long before I even considered learning to code
 ### Unfixed Bugs
 
 - Movement of Nav Bar when scrolling on mobile devices
+- Portrait orientation image in carousel causes image jumping in mobile view
 
 ## Deployment
 
