@@ -186,7 +186,7 @@ Link to repository: [Github Repository](https://github.com/thomil13/project-atla
 ### Content
 
 - All texts were written by the author specifically for this page
-- No Generative AI of any type was usedwas used
+- No Generative AI of any type was used
 - Font Raleway was sourced from Google Fonts
 
 ### Media
