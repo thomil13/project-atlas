@@ -6,31 +6,33 @@ Mind yourself is a website built to provide insight and advice to those dealing 
 
 It was created as part of Code Institute's GoStack 25 Full Stack Software Developer Bootcamp and aims to demonstrate my skills with HTML5, CSS and Bootstrap to create a fully responsive mental health focused website.
 
+Live Site Link: [Mind Yourself](https://thomil13.github.io/project-atlas/index.html)
+
 ## Table of Content
 
-[Table of Content](#table-of-content)
+- [Table of Content](#table-of-content)
 
-[Design Statement](#design-statement)
+- [Design Statement](#design-statement)
 
-[Visual Design Elements](#visual-design-elements)
+  - [Visual Design Elements](#visual-design-elements)
 
-[User Stories](#user-stories)
+- [User Stories](#user-stories)
 
-[Features](#features)
+- [Features](#features)
 
-[Existing Features](#existing-features)
+  - [Existing Features](#existing-features)
 
-[Missing Features](#features-left-to-implement)
+  - [Missing Features](#features-left-to-implement)
 
-[Testing](#testing)
+- [Testing](#testing)
 
-[Validation Testing](#validation-testing)
+  - [Validation Testing](#validation-testing)
 
-[Known Bugs](#unfixed-bugs)
+- [Known Bugs](#unfixed-bugs)
 
-[Deployment](#deployment)
+- [Deployment](#deployment)
 
-[Credits](#credits)
+- [Credits](#credits)
 
 ## Design Statement
 
@@ -152,10 +154,17 @@ I was a blogger & content creator long before I even considered learning to code
 
 ![W3C HTML Validation Success Page](assets_readme/html_validation_success.png)
  - HTML Validation Testing Passed without errors or messages on October 2nd, 2025 at 18:43 IST
-   - Testing Conducted via Chrome Incognito Mode
+   - Testing Conducted via Chrome Incognito Mode (Don't ask me how many revisions it took to get there!)
+
+---
 
 ![W3C CSS Validation Success Page](assets_readme/css_validation_success.png)
 - CSS Validation Testing passed without errors on October 2nd, 2025 at 18:50 IST
+
+---
+
+![Lighthouse benchmark results](assets_readme/chrome_lighthouse.png)
+- Lighthouse tests within Chrome returned scores of 90 or higher across all tested areas.
 
 ### Unfixed Bugs
 
@@ -165,6 +174,10 @@ I was a blogger & content creator long before I even considered learning to code
 
 - Page first deployed on Github Pages on September 30th, 2025
 - Current version deployed on Github Pages on October 2nd, 2025
+
+Link to deployed site: [Mind Yourself](https://thomil13.github.io/project-atlas/index.html)
+
+Link to repository: [Github Repository](https://github.com/thomil13/project-atlas)
 
 ## Credits
 
@@ -178,6 +191,7 @@ I was a blogger & content creator long before I even considered learning to code
 ### Media
 
 - All photos used on this page were taken by the author or from the archives of the authors' family
+- Mind yourself logo was custom-built using assets from the author's brand kit
 
 ### Disclaimer
 
