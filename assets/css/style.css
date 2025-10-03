@@ -70,6 +70,7 @@ nav {
 
 .carousel {
     box-shadow: 2px 2px 3px #3a3a3a;
+    margin-bottom: 1rem;
 }
 
 .logo {
@@ -95,20 +96,4 @@ footer .card-title {
     font-size: larger;
     font-weight: bold;
     color: var(--emergency-text);
-}
-
-#welcome {
-    padding-top: 1rem;
-}
-
-#my-story {
-    padding-top: 1rem;
-}
-
-#family {
-    padding-top: 1rem;
-}
-
-#employer {
-    padding-top: 1rem;
 }
